@@ -1,0 +1,2 @@
+// Funções Geradoras em Javascript
+
